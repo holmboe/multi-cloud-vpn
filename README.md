@@ -1,6 +1,6 @@
 # multi-cloud-vpn
 
-This repository contains an example AWS-Azure-Google Cloud VPN architecture built using Terraform.
+This repository contains an example [multi-cloud VPN architecture between AWS, Azure and Google Cloud](https://www.silect.is/blog/2020/1/28/creating-a-multi-cloud-vpn-with-terraform-between-aws-google-cloud-and-azure) built using Terraform.
 
 ## Required Software
 - [Terraform](https://www.terraform.io/)
